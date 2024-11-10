@@ -15,4 +15,3 @@ class TestCases(unittest.TestCase):
         result = convert.str_to_float(input)
         self.assertEqual(expected,result)
 
-
